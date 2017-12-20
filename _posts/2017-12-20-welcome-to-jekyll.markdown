@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Let's Stay Accountable!"
 date:   2017-12-20 10:36:29 -0500
 categories: jekyll update
 ---
