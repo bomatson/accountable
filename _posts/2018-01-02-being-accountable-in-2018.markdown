@@ -17,9 +17,9 @@ As an example for this week...
 
 Bobby
 -------
-- Finish a rough outline of the Payitoff Pitch Deck. No imagery or flash, just clear story and opportunity
-- Build a cofounder profile and define 5 places where you can look (that aren't generic)
-- Define a roadmap (3 month, 6 month, 1 year, 2 years, 3 years) and get feedback
+- Finish a rough outline of the Payitoff Pitch Deck. No imagery or flash, just clear story and opportunity. 12 slides max
+- Build a cofounder profile and define 5 places where you can look (that aren't generic). 100 - 400 words
+- Define a roadmap (3 month, 6 month, 1 year, 2 years, 3 years) and get feedback. 5 points at each phase.
 
 
 Feeling Overwhelmed
