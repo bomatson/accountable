@@ -1,8 +1,3 @@
-layout: post
-title:  "Howard's goals for w/c 8th Jan"
-date:   2018-01-08 10:36:29 -0500
-categories: jekyll update
-
 # Howard's goals for w/c 8th #
 
 ##
