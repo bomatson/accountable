@@ -23,7 +23,7 @@ Feeling low as very little for me on regular job market, but quietly renewed vig
 
 1. Wrap up a final version of the deck w/ visuals. 15 slides max **#feedbackneeded**
 1. Follow up with every new user in the past month (have suggestions been helpful?) and customer (how have plans been going?) over email or in person
-1. Reach out to 10 "I paid off my loans" bloggers and get feedback / get them excited
+1. Reach out to 10 "I paid off my loans" bloggers or CFPs and get feedback / get them excited
 1. Create "Payitoff Support" mocks and iron out dev stories for tracking progress of current planholders **#feedbackneeded**
 
 
