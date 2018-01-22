@@ -23,7 +23,7 @@ date:   2018-01-21 10:36:29 -0500
 
 1. Reach out to past angel investors (or angels I already know) to see if they are in for round #2 - show them 
 
-1. Build a Skillshare class about student loans to grow my audience and generate revenue
+1. Build an outline for a Skillshare class w/ fun ideas on content / format
 
 Deprioritized:
 
