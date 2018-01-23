@@ -7,14 +7,17 @@ date:   2018-01-21 10:36:29 -0500
 # Howard's goals for w/c 22nd #
 
 1. Record and edit 3rd podcast
-2. Ship something for my career fuel audience (more than just a blog post)
-3. Spend at least 5 hours doing Rails practice
+2. Ship more than just a blog post for my career fuel audience: a product or service they can sign up to and become a part of
+3. Spend at least 5 hours doing Rails practice: Zorro job board updates, Udemy course
+4. Obtain at least 1 new distribution channel for my content
 
 
 # Moving towards going solopreneur, minimal and lightweight.
 ==========
 
 ![](https://media.giphy.com/media/7nFmRxSw6AmyI/giphy.gif)
+
+
 
 
 # Bobby's goals for w/c 22nd #
