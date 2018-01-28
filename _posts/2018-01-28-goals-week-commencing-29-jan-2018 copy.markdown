@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Goals Week Commencing 22 Jan 2018"
+title:  "Goals Week Commencing 29 Jan 2018"
 date:   2018-01-28 10:36:29 -0500
 ---
 
