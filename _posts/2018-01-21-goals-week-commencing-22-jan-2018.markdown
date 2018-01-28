@@ -7,9 +7,28 @@ date:   2018-01-21 10:36:29 -0500
 # Howard's goals for w/c 22nd #
 
 1. Record and edit 3rd podcast
+
+Review and Result: Questions sent, no date booked yet. However podcast 4 date booked, and new equipment ordered
+Success level: 60%
+
+
 2. Ship more than just a blog post for my career fuel audience: a product or service they can sign up to and become a part of
+
+Review and Result: Accountable 0.15 becoming this, but not shipped yet. Goal too ambitious
+Success level: 30%
+
+
 3. Spend at least 5 hours doing Rails practice: Zorro job board updates, Udemy course
+
+Review and Result: Very annoying Postgres issue prevented much work being done. Frustrating. Need this fixed before proceeding, but did learn a bit about Postgres at least
+Success level: 40%
+
+
 4. Obtain at least 1 new distribution channel for my content
+
+Review and Result: Pushed content to a few new distributors and submitted to a couple of aggregators. Nothing solid secured though - next week will look at niche channels where a relationship can be built
+Success level: 30%
+
 
 
 # Moving towards going solopreneur, minimal and lightweight.
