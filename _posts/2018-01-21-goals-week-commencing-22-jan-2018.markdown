@@ -54,6 +54,12 @@ Deprioritized:
 - Create “Payitoff Support” mocks and iron out dev stories for tracking progress of current planholders #feedbackneeded
 
 
+# Review
+
+1. Totally met. 100%!
+1. Barely met, still trying to finish deck (20%)
+1. Met, 100%
+
 # Prioritizing revenue and fundraising because it's go time
 ==========
 
