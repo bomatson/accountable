@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Goals Week Commencing 29 Jan 2018"
+title:  "Howard's Goals - 29 Jan 2018"
 date:   2018-01-28 10:36:29 -0500
 ---
 
-# Howard's goals for w/c 29th #
+### Howard's goals for w/c 29th
 
 1. Decoded presentation delivered successfully, approval received to join their US facilitator team
 
