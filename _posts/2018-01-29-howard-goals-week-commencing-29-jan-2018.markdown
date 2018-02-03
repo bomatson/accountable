@@ -16,7 +16,7 @@ Success: 100%
 Success: 60%
 
 4. Create and ship 3 pieces of content, including at least 1000 words
-Success: 0%
+Success: 33%
 
 
 # Feeling that some new habits are very gradually beginning to pay off
