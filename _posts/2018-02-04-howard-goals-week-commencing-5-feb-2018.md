@@ -15,11 +15,23 @@ date:   2018-02-04 10:36:29 -0500
 
 1. Build a Career Fuel prototype in Sketch. Between 3 and 5 features. Get feedback from a User (Leap 2)
 
+Result: Done but no feedback. 80% success
+
+
 2. Contact 10x B2B prospects for workshops and get 2 responses (Leap 2)
+
+Result: Done but no responses. 60% success
+
 
 3. Contact 10x prospects re. Intrapreneur/EIR roles (or broader intros if unsure) and get 2 responses (Leap 1)
 
+Result: Done but no responses. 60% success
+
+
 4. Launch podcast across channels with 4 episodes (Leap 1)
+
+Result: Not launched. 30% success
+
 
   
 ### Deprioritised / Stretch
