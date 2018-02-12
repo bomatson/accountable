@@ -15,9 +15,9 @@ date:   2018-02-11 10:36:29 -0500
 
 1. Test Sketch Career Fuel prototype on 3 people, get feedback (Leap 2)
 
-2. 5 hours of Rails training & fix Postgres issue (Leap: 2)
+2. 5 hours of Rails training via Superhi, own project and Udemy (Leap: 2)
 
-3. Launch an event for early March (Leap 1)
+3. Launch an event for early March: get at least 10 signups to confirm interest (Leap 1)
 
 4. Launch and distribute podcast across channels with 4 episodes (Leap 1)
 
