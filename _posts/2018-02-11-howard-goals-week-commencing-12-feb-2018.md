@@ -15,11 +15,21 @@ date:   2018-02-11 10:36:29 -0500
 
 1. Test Sketch Career Fuel prototype on 3 people, get feedback (Leap 2)
 
+Result: Achieved. 100% success
+
+
 2. 5 hours of Rails training via Superhi, own project and Udemy (Leap: 2)
+
+Result: 2 hours, got stuck. 40% success
 
 3. Launch an event for early March: get at least 10 signups to confirm interest (Leap 1)
 
+Result: Enough interest. 100% success.
+
+
 4. Launch and distribute podcast across channels with 4 episodes (Leap 1)
+
+Result: Episode 4 on hold. Some assets created for launch. 20% success
 
 
   
