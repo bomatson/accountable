@@ -6,9 +6,10 @@ date:   2018-02-26 13:15:29 -0500
 
 ## Howard's goals for w/c 26th Feb
   
-## Notes for this week:
-> Leap targets pushed out by 1 month, but leaps remain the same
-> This week severely disrupted by illness
+  
+### Notes for this week:
+- Leap targets pushed out by 1 month, but leaps remain the same
+- This week severely disrupted by illness
 
 
 ### Leaps (target April 1)
