@@ -20,13 +20,14 @@ date:   2018-02-26 13:15:29 -0500
   
 ### Key Goals
 
-1. Contact 7 x potential clients/connectors with 3 very clear things I can do, i.e. Product Management, BD, Product Marketing. Include at least 1 VC to test on (Leap 1)
+1. Contact 7 x potential clients/connectors with 3 very clear things I can do, i.e. Product Management, BD, Product Marketing. Include at least 1 VC to test on.
+Receive 2 repsonses, of which 1 is a meeting request. (Leap 1)
 
 2. Send proposal to VaynerMedia for 6 week program with content and costs (Leap 1)
 
 3. Confirm Stems event with venue, contact attendees asking them to pay $25 to secure their place. Get 5 solid commitments (Leap 1)
 
-4. Contact someone mid/senior at WeWork and get a meeting booked with a view to doing talks and workshops with them (Leap 1 and 2)
+4. Contact someone mid/senior at WeWork (or another suitable larger co-work company) and a response with a view to doing talks and workshops with them (Leap 1 and 2)
 
 
 ### Deprioritised / Stretch
