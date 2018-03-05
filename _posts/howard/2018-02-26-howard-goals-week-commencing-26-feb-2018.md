@@ -2,6 +2,8 @@
 layout: post
 title:  "Howard's Goals - 26 Feb 2018"
 date:   2018-02-26 13:15:29 -0500
+categories: revenue pivot
+
 ---
 
 ## Howard's goals for w/c 26th Feb
@@ -23,16 +25,33 @@ date:   2018-02-26 13:15:29 -0500
 1. Contact 7 x potential clients/connectors with 3 very clear things I can do, i.e. Product Management, BD, Product Marketing. Include at least 1 VC to test on.
 Receive 2 repsonses, of which 1 is a meeting request. (Leap 1)
 
+80% success: Didn't get in touch with VCs, but did get something back from a potential client. Can improve specificity of skill offering
+
+
 2. Send proposal to VaynerMedia for 6 week program with content and costs (Leap 1)
+
+0% success: Carried into next week
+
 
 3. Confirm Stems event with venue, contact attendees asking them to pay $25 to secure their place. Get 5 solid commitments (Leap 1)
 
+90% success: Venue confirmed, invites sent. 4 people confirmed
+
+
 4. Contact someone mid/senior at WeWork (or another suitable larger co-work company) and a response with a view to doing talks and workshops with them (Leap 1 and 2)
+
+0% success: Carried into next week
+
+
 
 
 ### Deprioritised / Stretch
 
 - Record 2 podcasts with better sound quality and content that episodes 1-3 (Leap 1)
+
+100% success: Done!
+
+
 
 - Build 3 basic features for the MVP in rails (Leap 2)
 
