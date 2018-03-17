@@ -22,11 +22,22 @@ categories: vacation version
 
 1. Contact 5x prospects for podcast - brands and agencies (Leap 1)
 
+100% success :)
+
+
 2. Send podcast 4 assets to guest, send link to 3 live entertainment people (Leap 1)
+
+70% success - sent out but could have done more distro
+
 
 3. Contact 5 mid/senior people at larger NYC co-work companies re doing talks and workshops with them. Get at least 1 response (Leap 2)
 
+0% - carry over
+
+
 4. Make a 10 slide skeleton for Freelancer 2.0 talk (Leap 2)
+
+0% - carry over
 
 
 
