@@ -22,11 +22,22 @@ categories: vacation version
 
 1. Deliver first Stems event successfully: 5 attendees, HG 10 min talk, attendee feedback and 3 improvements ready for next one (Leap 2)
 
+0% - event postponed
+
+
 2. Zoom in on app screens so there are 3 key features being created for an MVP. Have these screens ready for build (Leap 2)
+
+100% success
+
 
 2. Contact 5x freelancers for customer dev interviews, 2 responses (Leap 2)
 
+100% success
+
+
 4. Make a 10 slide skeleton deck for Hyper Island talk (Leap 2)
+
+80% success - needs to be finished off
 
 
 
