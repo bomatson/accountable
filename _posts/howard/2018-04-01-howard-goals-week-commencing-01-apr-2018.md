@@ -23,9 +23,18 @@ categories: q2
 
 1. Ping 10x PE firms, 2 positive responses (Leap 1)
 
+80% success: all pinged, 1 responses
+
+
 2. Prep and send newsletter 17, get better open rate than last time (Leap 1)
 
+75% success: sent but open rate lower
+
+
 3. MVP built in Rails, get 1 person to test and feed back (Leap 2)
+
+75% success: built but not tested
+
 
 
 ### Stretch
