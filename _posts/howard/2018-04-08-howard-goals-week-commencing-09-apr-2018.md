@@ -24,14 +24,27 @@ Slightly shorter week due to parents being in town
 
 1. Build Fondo so it’s better than Accountable, get 1 person to test and feed back (Leap 2)
 
+Failed
+
+
 2. Prep for and undertake 2nd UTC meeting; get positive feedback (Leap 1)
+
+100% success!
+
 
 3. Complete 2 x Rails tutorials (SuperHi / Podia), 5x exercises on Udemy (Leap 2)
 
+Failed
+
+
 4. Finish Product Marketing offering, book meetings with 3 prospects to discuss (Leap 1)
+
+Failed
+
 
 5. Ship 1 blog post relating to my consulting focus area. Share with 3 media publications and 3 prospects (Leap 1)
 
+20% success - 300 words written
 
 
 
