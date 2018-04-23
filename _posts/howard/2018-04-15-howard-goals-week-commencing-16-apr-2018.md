@@ -23,13 +23,29 @@ Week fairly clear after a previous week of meeting 20x new people (!) and parent
 
 1. Complete 5x framing questions to turn awareness into leads. Map these to 5 personas, produce a pitch email for each (Leap 1) *early week layup*
 
+75% complete, needs better framing
+
+
 2. Ship 1 blog post relating to my consulting focus area. Share with 3 media publications and 3 prospects (Leap 1) *early week field goal*
+
+
+50%: skeleton done but this is an important one to get right
+
 
 3. Complete 2 x Rails tutorials (SuperHi / Podia), 5x exercises on Udemy (Leap 2)
  
+0%, although did some small Fondo bits to keep my hand in
+
+
 4. Get clarity from clients on SBS and Thrive projects so I can manage time and budget accordingly (Leap 1)
 
+90% - some clarity still needed but much better now
+
+
 5. Build Fondo so it’s better than Accountable, get 1 person to test and feed back (Leap 2) *3 pointer!* 
+
+
+25% - close but still bugs!
 
 
 
