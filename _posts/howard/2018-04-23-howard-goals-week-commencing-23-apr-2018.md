@@ -28,10 +28,17 @@ Going with small number of goals to see if this is easier to nail.
 
 1. Complete 5x framing questions to turn awareness into leads. Map these to 5 personas, produce a pitch email for each. Send the emails. (Leap 1) **early week layup **
 
+80% success - the framing led into a deeper piece of work on positioning. Well worth it but didn't get the emails sent.
+
+
 2. Ship 1 blog post relating to my consulting focus area. Share with 3 media publications and 3 prospects (Leap 1) **early week field goal **
+
+Bad dog - should have done this. Still at 80%
+
 
 3. Complete Fondo 0.2, add front end styling (Leap 2)
 
+3 screens styled to a moderate level, wrestling with what is 'enough' here (part of goal setting challenge more broadly). Giving myself 60%
 
 
 
