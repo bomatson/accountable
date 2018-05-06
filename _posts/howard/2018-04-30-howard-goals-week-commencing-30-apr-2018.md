@@ -28,15 +28,33 @@ Brother is in town so paring back goals a little bit
 
 1. Complete draft of module 1 of AMP program (Leap 1)
 
+100%!
+
+
 2. Approach 5 prospects with 4E and podcast, get 1 positive response (Leap 3)
+
+20% - 2 approaches, but 4E not done yet
+
 
 3. Ship newsletter 18 (Leap 3)
 
+100%!
+
+
 4. Fondo to Bobby for review and ready for next week’s goals (leap 2) 
+
+50% - sent to Bobby but still work to be done
+
+
 
 5. Spend a full day in one location, measure output
 
+0% - fail
+
+
 6. Ship 1 blog post relating to my consulting focus area. Share with 3 media publications and 3 prospects (Leap 3) **early week field goal **
+
+0% - fail
 
 
 
