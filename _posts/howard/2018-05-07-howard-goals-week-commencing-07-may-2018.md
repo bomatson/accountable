@@ -28,9 +28,17 @@ Low attainment level over last few weeks; smaller number of goals now
 
 1. Distribute podcast episode 12 to 5 people in festival business, and other episodes to 5 other people across a few industries (Leap 3)
 
+50% success - 2nd part of this happening this week
+
+
 2. Complete draft of masterclass and module 1 of AMP program (Leap 1)
 
+90% - looking good
+
+
 3. Complete and deliver ‘Biases’ talk at event, self-grade it as 80%+ quality, get 2 people’s contact info re. new biz (Leap 3)
+
+80% - completed, 7/10 rating, bit low on the BD front though
 
 
 
