@@ -26,17 +26,18 @@ Fondo still side project, but devoting approx 1 day per week to it (i.e 20%)
   
 ### Key Goals
 
-1. Distribute podcast episodes to 5 people across 2-3 industries (Leap 3)
+1. Distribute podcast episodes to 3 people across real estate / workspace industry (Leap 3) - lay up
 
-2. Renewed service suite in place via a 10 slide deck and 10x first prospects to get in touch with - contact 5 of them (Leap 3)
+2. Renewed pitch in place (4E) via a 10 slide deck and 10x first prospects to get in touch with - contact 5 of them (Leap 3)
 
 3. Finish up all pre-work exercises and version of Masterclass and Module 1 for AMP that are ready to be road-tested (i.e. cleaned up design etc) (Leap 1)
 
-4. Implement key elements of Bobby feedback and finish all current version tweaks, put onto Heroku. Do at least 2 of these myself. (Leap 2)
 
 
 
 ### Stretch
+
+- Implement key elements of Bobby feedback and finish all current version tweaks, put onto Heroku. Do at least 2 of these myself. (Leap 2)
 
 - Ship 1 blog post relating to my consulting focus area. Share with 3 media publications and 3 prospects (Leap 3) 
 
