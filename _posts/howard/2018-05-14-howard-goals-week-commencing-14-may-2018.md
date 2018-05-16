@@ -49,7 +49,7 @@ Fondo still side project, but devoting approx 1 day per week to it (i.e 20%)
 
 
 
-# Feeling like a lot of juggling going on, have to go down to 3 balls in the air for now.
+# New positioning, new dawn
 ==========
 
-![](https://media.giphy.com/media/yxpgvcyhOMFdS/giphy.gif)
+![](https://media.giphy.com/media/ZMUibJXDlqbVC/giphy.gif)
