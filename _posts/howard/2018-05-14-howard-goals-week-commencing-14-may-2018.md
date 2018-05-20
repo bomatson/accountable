@@ -28,9 +28,17 @@ Fondo still side project, but devoting approx 1 day per week to it (i.e 20%)
 
 1. Distribute podcast episodes to 3 people across real estate / workspace industry (Leap 3) - lay up
 
+DONE - 100% success
+
+
 2. Renewed pitch in place (4E) via a 10 slide deck and 10x first prospects to get in touch with - contact 5 of them (Leap 3)
 
+80% success: pitch deck on the way, 5 people contacted
+
+
 3. Finish up all pre-work exercises and version of Masterclass and Module 1 for AMP that are ready to be road-tested (i.e. cleaned up design etc) (Leap 1)
+
+70% success: Module 1 still a bit lacking
 
 
 
