@@ -45,6 +45,13 @@ Fondo still side project, but devoting approx 1 day per week to it (i.e 20%)
 ### Deprioritised
 
 
+### Upcoming
+- H Bureau relaunch: website, thesis blog post
+- Send newsletter 19 (June 5)
+- Hunt down a conference/festival to assist
+- Fondo launch
+
+
 
 # Tis the season for project launches
 ==========
