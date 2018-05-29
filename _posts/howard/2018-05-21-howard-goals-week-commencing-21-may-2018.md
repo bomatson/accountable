@@ -28,9 +28,18 @@ Fondo still side project, but devoting approx 1 day per week to it (i.e 20%)
 
 1. Implement key elements of Fondo feedback from Bobby and finish at least 5 current version tweaks. Deploy to Heroku. Do at least 2 of these updates myself. (Leap 2)
 
+70%: my pieces done, the others not. moving into next week.
+
+
 2. Finish up 4E deck and contact 10 prospects; 5 of them with the straight pitch, 5 with either a podcast or other softer approach (Leap 3)
 
+100%: done!
+
+
 3. Finish up Module 1 for AMP so only cosmetic fine tuning is needed next week. Have a feeling of confidence with the content going into a big final week of May (Leap 1)
+
+
+50%: struggling with this, on the way but needs more work.
 
 
 
