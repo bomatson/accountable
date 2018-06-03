@@ -17,6 +17,9 @@ Big week on AMP, plus family in town means limited run at projects
 
 1. AMP: First masterclass and module successfully delivered with a feeling of confidence going into module 2 (June 1 target)
 
+Success!
+
+
 2. Fondo: launched with 10 DAUs
 
 3. H Bureau: A new client secured via my 4E framework and positioning
@@ -26,10 +29,17 @@ Big week on AMP, plus family in town means limited run at projects
 
 1. Put a version of Fondo live onto Heroku, link to it from main website. Send to 5 early adopters (Leap 2)
 
+50% success. Updates made, but nothing sent out yet.
+
 
 2. Get Sustainable product into condition to share (Leap 3)
 
+70% success. Needs some tweaks
+
+
 3. Write 300 words on an area specific to my work (Leap 3)
+
+0%.
 
 
 
