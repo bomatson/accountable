@@ -20,14 +20,14 @@ Some breathing space after a busy two weeks. Going deeper on product build.
 
 2. H Bureau: A new client secured via my 4E framework and positioning
 
-3. Successfully complete AMP program (Aug 7)
+3. AMP: Complete AMP program with majority positive feedback from cohort and client (NPS score of 7+) (Aug 7)
 
   
 ### Key Goals
 
-1. Fix Fondo bugs. Share with 5 early adopters and get feedback from 3 of them. List out 3 key actions to do next from this (Leap 1)
+1. Identify and make contact with 3 front end developer options for Fondo to help over Summer (Leap 1)
 
-2. Get Sustainable product offering into condition to share. Have action plan for first 3 steps to take to get it to market (Leap 2)
+2. Get senior dev to fix at least 3 bugs and put them onto Heroku for testing. (Leap 1)
 
 3. AMP module 2 drafted in passable condition (main deck skeleton and overall flow complete) for finishing early next week (Leap 3)
 
@@ -40,6 +40,8 @@ Some breathing space after a busy two weeks. Going deeper on product build.
 
 
 ### Stretch
+
+ - Create at least 1 piece of content that has a CTA driving to Fondo landing page (Leap 1)
 
 
 ### Deprioritised
