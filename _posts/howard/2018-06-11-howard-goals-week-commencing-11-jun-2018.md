@@ -34,8 +34,8 @@ Some breathing space after a busy two weeks. Going deeper on product build.
 
 
 ### Upcoming
+- Tweak personal website so focus is towards product management
 - H Bureau relaunch: website, thesis blog post
-- Hunt down a conference/festival to assist
 - Fondo 'full' launch
 
 
@@ -45,11 +45,11 @@ Some breathing space after a busy two weeks. Going deeper on product build.
 ### Deprioritised
 
 - Write 300 words on an area specific to my work (Leap 2)
+- Hunt down a conference/festival to assist
 
 
 
-
-# Maker mode
+# Looking forward to moving into new office
 ==========
 
-![](https://media.giphy.com/media/l0MYMV4Bf5zmV4TWE/giphy.gif)
+![](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
