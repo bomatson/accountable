@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Howard's Goals - 4 Jun 2018"
-date:   2018-06-04 19:45:29 -0500
+title:  "Howard's Goals - 11 Jun 2018"
+date:   2018-06-11 21:45:29 -0500
 categories: q2
 
 ---
 
-## Howard's goals for w/c 4 June 2018
+## Howard's goals for w/c 11 June 2018
   
   
 ### Notes for this week:
@@ -20,23 +20,16 @@ Some breathing space after a busy two weeks. Going deeper on product build.
 
 2. H Bureau: A new client secured via my 4E framework and positioning
 
+3. Successfully complete AMP program (Aug 7)
+
   
 ### Key Goals
 
-1. Share Fondo with 5 early adopters and get feedback from 3 of them. List out 3 key actions to do next from this (Leap 1)
-
-Fail: Developer on vacation, still too many bugs :-/
-
+1. Fix Fondo bugs. Share with 5 early adopters and get feedback from 3 of them. List out 3 key actions to do next from this (Leap 1)
 
 2. Get Sustainable product offering into condition to share. Have action plan for first 3 steps to take to get it to market (Leap 2)
 
-90% success, some tweaks to get it over the line
-
-
-3. Send newsletter 19 to full mailing list. Increase on open rate from edition 18 (Leap 1)
-
-100% success!
-
+3. AMP module 2 drafted in passable condition (main deck skeleton and overall flow complete) for finishing early next week (Leap 3)
 
 
 
