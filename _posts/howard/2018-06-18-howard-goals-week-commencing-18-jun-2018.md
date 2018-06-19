@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Howard's Goals - 18 Jun 2018"
-date:   2018-06-18 21:45:29 -0500
+date:   2018-06-17 21:45:29 -0500
 categories: q2
 
 ---
