@@ -50,7 +50,7 @@ Some breathing space after a busy two weeks. Going deeper on product build.
 
 
 
-# Looking forward to moving into new office
+# Big week of talking, workshopping, that kinda thing
 ==========
 
-![](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
+![](https://media.giphy.com/media/Fgl7OyFKx0I7e/giphy.gif)
