@@ -11,7 +11,7 @@ categories: q2
   
 ### Notes for this week:
 
-Some breathing space after a busy two weeks. Going deeper on product build.
+Heavy week of workshops and client stuff. Keeping product ticking over with an eye on the leap.
 
 
 ### Leaps (target June 30)
